@@ -1,0 +1,11 @@
+.git
+.gitignore
+.github
+build
+install
+log
+__pycache__
+*.pyc
+*.pyo
+.vscode
+.idea
