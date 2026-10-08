@@ -24,9 +24,9 @@ This project was developed and presented by:
 
 **Nasr-Eddine Mellah**
 
-Academic Supervisor / Professor  
+Academic Supervisor   
 École Nationale Polytechnique d'Alger (ENP)  
-Department of Hydraulics
+Department of electronic 
 
 ---
 
